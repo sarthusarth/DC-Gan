@@ -1,4 +1,4 @@
-.floydignore
-.floydexpt
-.DS_Store
+*.floydignore
+*.floydexpt
+*.DS_Store
 
